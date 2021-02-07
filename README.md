@@ -17,11 +17,13 @@ I used input statements to retrieve customer weather preferences and used these 
 ![deliverable2-1](https://github.com/Soniaprogram/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Deliverable 3: Create a Travel Itinerary Map
-I used Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer's possible travel destinations. I also created a marker layer map with a pop-up marker for each city on the itinerary. 
+I used Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer's possible travel destinations. I also created a marker layer map with a pop-up marker for each city on the itinerary as seen below. 
 
 Depicted a Travel Itinerary Map of the following 4 cities in Mauritius:
 ![deliverable3-1](https://github.com/Soniaprogram/World_Weather_Analysis/blob/main/weather_data/deliverable34cities.PNG)
 
-
+Travel marker map:
 ![deliverable3-2](https://github.com/Soniaprogram/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
+Travel Itinerary map with route:
+![deliverable3-3](https://github.com/Soniaprogram/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
