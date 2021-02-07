@@ -2,6 +2,9 @@
 
 ## Overview of analysis
 
+This analysis involves using Jupyter Notebook, Pandas Library, CitiPy, Python Requests, APIs, and JSON Traversals to collect weather data from around the world. I have analyzed the data using Pandas and plotted the data using Matplotlib library and Google API. I have also performed statistical analysis using Scipy library to present a Series of plots that visually and statistically show the relationship between latitude and a variety of weather parameters. 
+
+PlanMyTrip is a top travel technology company that specializes in Internet related services in the hotel and lodging industry. Jack is the head of analysis for the User Interface team. I will assist Jack by collecting and presenting data for customers via the Search page which users can filter based on their preferenced travel criteria, in order for them to find their preferred hotel anywhere in the world. 
 
 
 Deliverable 1: Retrieve Weather Data
